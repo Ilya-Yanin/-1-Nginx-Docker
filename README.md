@@ -1,1 +1,1 @@
-# -1-Nginx-Docker
+# Лабораторная работа №1: Nginx + Docker
